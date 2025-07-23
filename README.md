@@ -1,1 +1,1 @@
-# Cmdo
+# This is a simple web game developed by Jeswin Jose for youtube channel video
